@@ -29,14 +29,14 @@
   - `global`: 🎓	known
   - `globalThis`: 🎓	known
   - `window`: 🎓	known
-  - Getters and setters
-  - `__proto__`
+  - Getters and setters: 🎓	known
+  - `__proto__`: 🎓	known
   - `prototype`
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
   - `await`
