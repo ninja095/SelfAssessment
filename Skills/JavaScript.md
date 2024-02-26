@@ -31,15 +31,15 @@
   - `window`: 🎓	known
   - Getters and setters: 🎓	known
   - `__proto__`: 🎓	known
-  - `prototype`
+  - `prototype`: 🎓	known
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator: 🖐️ used
   - `void`
-  - `yield`
-  - `await`
+  - `yield`: 🎓	known
+  - `await`: 🖐️ used
   - Template literal
   - Strict mode
   - Hoisting
@@ -48,8 +48,8 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -69,7 +69,7 @@
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
-  - `import`
+  - `import`: 🖐️ used
   - `export`: 🖐️ used
   - `label`
   - `try..catch`: 🖐️ used
@@ -96,7 +96,7 @@
   - Weak collections
   - Typed arrays
   - Mixins
-  - `Object.assign`
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`: 🖐️ used
