@@ -32,9 +32,9 @@
   - Getters and setters:      🎓	known
   - `__proto__`:              🎓	known
   - `prototype`:              🎓	known
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
+  - Equality operators:       🖐️  used
+  - Logical operators:        🖐️  used
+  - Logical Assignment:       🎓	known
   - Bitwise operators
   - Ternary operator:         🖐️  used
   - `void`
