@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-78/113/730-009933?style=flat-square)](https://github.com/ninja095/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-79/113/730-009933?style=flat-square)](https://github.com/ninja095/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-78/113/730-009933?style=flat-square)](https://github.com/ninja095/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-79/113/730-009933?style=flat-square)](https://github.com/ninja095/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/ninja095/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-78/113/730-009933?style=flat-square"></a>
+<a href="https://github.com/ninja095/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-79/113/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `40` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `41` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `15` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `7` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `7` |
@@ -103,7 +103,7 @@ Total: you have `54` of `72` skills, `18` to be upgraded, and `20` above needed
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | Getters and setters | 🎓 known | ⟶  | 🖐️ used |
-| `void` | 🤷 unknown | ⟶  | 🖐️ used |
+| `void` | 🎓 known | ⟶  | 🖐️ used |
 | `yield` | 🎓 known | ⟶  | 🖐️ used |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
 | Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
