@@ -37,7 +37,7 @@
   - Logical Assignment: 🎓 known
   - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
-  - `void`
+  - `void`: 🎓 known
   - `yield`: 🎓 known
   - `await`: 🖐️ used
   - Template literal
